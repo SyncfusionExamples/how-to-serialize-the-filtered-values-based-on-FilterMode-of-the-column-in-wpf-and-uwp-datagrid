@@ -1,4 +1,4 @@
-# How to serialize the filtered values based on FilterMode of the column in wpf and uwp datagrid?
+# How to serialize the filtered values based on FilterMode of the column in WPF and UWP DataGrid (SfDataGrid)?
 
 This example illustrates how to serialize the filtered values based on FilterMode of the column in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
